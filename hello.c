@@ -1,12 +1,14 @@
-/** 
+/**
 Phaniso shaba
 01/16/20
-
-Printing hello world 
+Collaborator: Malachi Hood
+Printing hello world
 */
 
 int main (int argc, char **argv){
 printf( "Phaniso Shaba");
 printf("Computer science");
-return 0; 
-}	
+printf("Malachi Hood");
+printf("Construction Engineering");
+return 0;
+}
